@@ -4,6 +4,7 @@ Simple pulse generator application for labview and daqmx.
 # Overview
 simple pulse generator appliction labview and daqmx driver.
 easy to use. frequency and duty setting, turn on/off output pulse.
+Useful when there is no signal generator instrument near you.
 
 # Requirement
 LabVIEW 2014 or later.
