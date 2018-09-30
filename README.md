@@ -1,20 +1,18 @@
-Simple pulse generator application for labview and daqmx.
+Simple pulse generator application for LabVIEW and DAQmx device.
 ====
 
 # Overview
-simple pulse generator appliction labview and daqmx driver.
-easy to use. frequency and duty setting, turn on/off output pulse.
-Useful when there is no signal generator instrument near you.
+This software is simple pulse generator for LabVIEW and DAQmx device. you can interactive operatoin from panel window. you can control frequency and duty setting and turn on/off output pulse . Useful when you don't have signal generator instruments.
 
 # Requirement
-LabVIEW 2014 or later.
-NI-DAQ Board with counter function and DAQmx driver.
+- LabVIEW 2014 or later.
+- Counter function included DAQmx device
 
 # Install
 
 ## VIPM package
-You can easily install using the vipm package file.
-download vipm package file from the following URL.
+You can easily install using the VIPM package file.
+you can download vipm package file from the following URL.
 https://github.com/alucky4416/SimplePulseGeneratorDaqmx/releases
 
-after install, add simple pulse generator to labview tools menu.
+after installation, VIPM package manager add "Simple PulseGenerator" item to LabVIEW tools menu.
